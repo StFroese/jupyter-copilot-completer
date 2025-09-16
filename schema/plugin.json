@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "copilot-completer",
+  "description": "copilot-completer settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}

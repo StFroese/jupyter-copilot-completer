@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.4.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: stefanfroese@as.edu.tw
+author_name: Stefan Fröse
+has_binder: false
+has_settings: true
+kind: frontend
+labextension_name: copilot-completer
+project_short_description: A Jupyter extension providing GitHub Copilot as an Inline
+    Completer through the Copilot LSP and the IInlineCompletionProvider interface.
+python_name: copilot_completer
+repository: https://github.com/StFroese/jupyter-copilot-completer
+test: true
+
